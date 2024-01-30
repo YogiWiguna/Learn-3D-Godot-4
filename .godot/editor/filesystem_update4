@@ -1,0 +1,3 @@
+res://Scenes/Player/player.tscn
+res://Scenes/world.tscn
+res://Scenes/Player/camera_control.gd

@@ -1,0 +1,9 @@
+WorldEnvironment
+MeshInstance3D
+CollisionShape3D
+StaticBody3D
+SpringArm3D
+Node3D
+Camera3D
+BoneAttachment3D
+CharacterBody3D

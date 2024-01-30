@@ -1,0 +1,58 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1706605499
+icon.svg::CompressedTexture2D::5430506620901973896::1706598341::1706598349::1::::<><>::
+::res://Assets/::1706605502
+::res://Assets/Kaykit Character Animations 1.2/::1706605432
+::res://Assets/Kaykit Character Animations 1.2/Animations/::1706602785
+::res://Assets/Kaykit Character Animations 1.2/Animations/gltf/::1644246579
+KayKit_AnimatedCharacter_v1.2.glb::PackedScene::3524170483921775893::1644067395::1706605506::1::::<><>::
+::res://Assets/Kaykit Character Animations 1.2/Models/::1706602800
+::res://Assets/Kaykit Character Animations 1.2/Models/gltf/::1612357355
+Case.gltf.glb::PackedScene::6999707563437635697::1612357305::1706605507::1::::<><>::
+Pencil.gltf.glb::PackedScene::1601407411313548540::1612357305::1706605507::1::::<><>::
+PrototypePete.gltf::PackedScene::3722070700199043577::1612357196::1706605507::1::::<><>::
+::res://Assets/KayKit Character Pack - Skeletons 1.0/::1706605475
+::res://Assets/KayKit Character Pack - Skeletons 1.0/Models/::1632580345
+::res://Assets/KayKit Character Pack - Skeletons 1.0/Models/assets/::1706605457
+::res://Assets/KayKit Character Pack - Skeletons 1.0/Models/assets/gltf/::1632580345
+arrow_green.gltf.glb::PackedScene::1786250727022443484::1631976310::1706605507::1::::<><>::
+arrow_green_broken.gltf.glb::PackedScene::1762747725008390974::1631976310::1706605507::1::::<><>::
+arrow_green_broken_half.gltf.glb::PackedScene::8492566578567784348::1631976310::1706605507::1::::<><>::
+arrow_green_half.gltf.glb::PackedScene::4314927581647690604::1631976310::1706605507::1::::<><>::
+arrow_purple.gltf.glb::PackedScene::2957945941282810426::1631976310::1706605507::1::::<><>::
+arrow_purple_broken.gltf.glb::PackedScene::5299007905394684787::1631976310::1706605507::1::::<><>::
+arrow_purple_broken_half.gltf.glb::PackedScene::6351975490502601562::1631976310::1706605507::1::::<><>::
+arrow_purple_half.gltf.glb::PackedScene::5744590445020692143::1631976310::1706605507::1::::<><>::
+body_broken.gltf.glb::PackedScene::6536696793429385820::1631976310::1706605507::1::::<><>::
+bone.gltf.glb::PackedScene::1612522787494271236::1631976310::1706605507::1::::<><>::
+bone_half.gltf.glb::PackedScene::2468918991845187569::1631976310::1706605507::1::::<><>::
+quiver_green.gltf.glb::PackedScene::8278336485529055106::1631976311::1706605507::1::::<><>::
+quiver_purple.gltf.glb::PackedScene::1122341944473997152::1631976311::1706605508::1::::<><>::
+shield.gltf.glb::PackedScene::5961001080012055583::1631976311::1706605508::1::::<><>::
+shield_arrows.gltf.glb::PackedScene::4031569814679146977::1631976311::1706605508::1::::<><>::
+skeleton_bow.gltf.glb::PackedScene::1980082474342110237::1631976311::1706605508::1::::<><>::
+skeleton_helmet.gltf.glb::PackedScene::8191525473898071657::1631976311::1706605508::1::::<><>::
+skeleton_helmet_full.gltf.glb::PackedScene::2065077944611071789::1631976311::1706605504::1::::<><>::
+skeleton_hood.gltf.glb::PackedScene::4310018960012791218::1631976311::1706605505::1::::<><>::
+skeleton_hood_masked.gltf.glb::PackedScene::7018550409770829319::1631976311::1706605505::1::::<><>::
+skeleton_mage_cloak.gltf.glb::PackedScene::4463169824257290591::1631976311::1706605505::1::::<><>::
+skeleton_mage_cowl.gltf.glb::PackedScene::1771722665487409908::1631976311::1706605505::1::::<><>::
+skeleton_staff.gltf.glb::PackedScene::4319035814841018315::1631976311::1706605505::1::::<><>::
+skeleton_staff_broken.gltf.glb::PackedScene::5040460141485892487::1631976311::1706605505::1::::<><>::
+skull.glb::PackedScene::1933828922575784522::1631977364::1706605505::1::::<><>::
+skull_broken.glb::PackedScene::1661442251927010105::1631977349::1706605505::1::::<><>::
+spellbook.gltf.glb::PackedScene::2343438872118525413::1631976311::1706605505::1::::<><>::
+sword_broken.gltf.glb::PackedScene::2513349050810051726::1631976311::1706605505::1::::<><>::
+sword_broken_half.gltf.glb::PackedScene::5370527991546540562::1631976311::1706605505::1::::<><>::
+::res://Assets/KayKit Character Pack - Skeletons 1.0/Models/characters/::1706605452
+::res://Assets/KayKit Character Pack - Skeletons 1.0/Models/characters/gltf/::1632580346
+character_skeleton_archer.gltf::PackedScene::2258632653246550241::1631978838::1706605505::1::::<><>::
+character_skeleton_archer_broken.gltf::PackedScene::2065306526251637094::1631978848::1706605505::1::::<><>::
+character_skeleton_mage.gltf::PackedScene::5956536015715467903::1631978864::1706605506::1::::<><>::
+character_skeleton_mage_broken.gltf::PackedScene::4491768061718512387::1631978876::1706605506::1::::<><>::
+character_skeleton_minion.gltf::PackedScene::2940063183948136543::1631978711::1706605506::1::::<><>::
+character_skeleton_minion_broken.gltf::PackedScene::1674158403768738193::1631978773::1706605506::1::::<><>::
+character_skeleton_warrior.gltf::PackedScene::6446612708732379347::1631978791::1706605506::1::::<><>::
+character_skeleton_warrior_broken.gltf::PackedScene::8900227493830691799::1631978816::1706605506::1::::<><>::
+::res://Scenes/::1706602667
+world.tscn::PackedScene::5643562923887192393::1706602667::0::1::::<><>::
