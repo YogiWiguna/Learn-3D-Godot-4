@@ -1,3 +1,16 @@
-res://Scenes/Player/player.tscn
 res://Scenes/world.tscn
+res://Scenes/Player/player.tscn
 res://Scenes/Player/camera_control.gd
+res://Scenes/Player/player.gd
+res://Scenes/Player/State/idle_state.gd
+res://Scenes/Player/State/State.gd
+res://Scenes/Player/State/state_factory.gd
+res://Scenes/Player/State/attack_state.gd
+res://Scenes/Player/State/jump_state.gd
+res://Scenes/Player/State/move_state.gd
+res://Library/library.tres
+res://Scenes/Library/library.tscn
+res://Library/wall.tscn
+res://Scenes/Library/wall.tscn
+res://Library/wall.tres
+res://Scenes/Library/floor.tscn
