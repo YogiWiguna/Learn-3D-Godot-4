@@ -127,7 +127,7 @@ data = PackedVector3Array(2.25, 3.2, 0, 2.25, 0.4999, 0, 2.25, 0.4999, 4, 2.25, 
 [node name="wall" type="Node3D"]
 
 [node name="wall_arched" type="MeshInstance3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11, 0, 0.5)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11, 0, 1)
 mesh = SubResource("ArrayMesh_0nshx")
 skeleton = NodePath("")
 
@@ -137,7 +137,7 @@ skeleton = NodePath("")
 shape = SubResource("ConcavePolygonShape3D_x281n")
 
 [node name="wall" type="MeshInstance3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7, 0, 0.5)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7, 0, 1)
 mesh = SubResource("ArrayMesh_80cjr")
 skeleton = NodePath("")
 
@@ -146,18 +146,8 @@ skeleton = NodePath("")
 [node name="CollisionShape3D" type="CollisionShape3D" parent="wall/StaticBody3D"]
 shape = SubResource("ConcavePolygonShape3D_j647u")
 
-[node name="wall2" type="MeshInstance3D" parent="."]
-transform = Transform3D(-4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 13, 0, 2)
-mesh = SubResource("ArrayMesh_80cjr")
-skeleton = NodePath("")
-
-[node name="StaticBody3D" type="StaticBody3D" parent="wall2"]
-
-[node name="CollisionShape3D" type="CollisionShape3D" parent="wall2/StaticBody3D"]
-shape = SubResource("ConcavePolygonShape3D_j647u")
-
 [node name="stairs_walled" type="MeshInstance3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.5, 0, 0)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 0, 0)
 mesh = SubResource("ArrayMesh_7cb4o")
 skeleton = NodePath("")
 

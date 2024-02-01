@@ -1,4 +1,4 @@
-[gd_scene load_steps=67 format=3 uid="uid://d4mqjhuxsjibq"]
+[gd_scene load_steps=68 format=3 uid="uid://d4mqjhuxsjibq"]
 
 [ext_resource type="Script" path="res://Scenes/Player/player.gd" id="1_r26x8"]
 [ext_resource type="Script" path="res://Scenes/Player/camera_control.gd" id="2_nagsy"]
@@ -3912,6 +3912,10 @@ switch_mode = 2
 advance_mode = 2
 
 [sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_488nd"]
+xfade_time = 0.2
+
+[sub_resource type="AnimationNodeStateMachineTransition" id="AnimationNodeStateMachineTransition_ea5wf"]
+xfade_time = 0.2
 
 [sub_resource type="AnimationNodeStateMachine" id="AnimationNodeStateMachine_ws76g"]
 states/Attack(1h)/node = SubResource("AnimationNodeAnimation_fr6xk")
@@ -3924,7 +3928,7 @@ states/Jump/position = Vector2(464, 320)
 states/Start/position = Vector2(185, 194)
 states/Walk/node = SubResource("AnimationNodeAnimation_stkg8")
 states/Walk/position = Vector2(464, 43)
-transitions = ["Start", "Idle", SubResource("AnimationNodeStateMachineTransition_4b6hy"), "Idle", "Walk", SubResource("AnimationNodeStateMachineTransition_aq8yg"), "Walk", "Idle", SubResource("AnimationNodeStateMachineTransition_wfyci"), "Idle", "Attack(1h)", SubResource("AnimationNodeStateMachineTransition_bsg3u"), "Idle", "Jump", SubResource("AnimationNodeStateMachineTransition_xwovw"), "Jump", "Idle", SubResource("AnimationNodeStateMachineTransition_mp8j0"), "Walk", "Attack(1h)", SubResource("AnimationNodeStateMachineTransition_0n78g"), "Attack(1h)", "Walk", SubResource("AnimationNodeStateMachineTransition_r4mtb"), "Attack(1h)", "Idle", SubResource("AnimationNodeStateMachineTransition_6oox5"), "Walk", "Jump", SubResource("AnimationNodeStateMachineTransition_488nd")]
+transitions = ["Start", "Idle", SubResource("AnimationNodeStateMachineTransition_4b6hy"), "Idle", "Walk", SubResource("AnimationNodeStateMachineTransition_aq8yg"), "Walk", "Idle", SubResource("AnimationNodeStateMachineTransition_wfyci"), "Idle", "Attack(1h)", SubResource("AnimationNodeStateMachineTransition_bsg3u"), "Idle", "Jump", SubResource("AnimationNodeStateMachineTransition_xwovw"), "Jump", "Idle", SubResource("AnimationNodeStateMachineTransition_mp8j0"), "Walk", "Attack(1h)", SubResource("AnimationNodeStateMachineTransition_0n78g"), "Attack(1h)", "Walk", SubResource("AnimationNodeStateMachineTransition_r4mtb"), "Attack(1h)", "Idle", SubResource("AnimationNodeStateMachineTransition_6oox5"), "Walk", "Jump", SubResource("AnimationNodeStateMachineTransition_488nd"), "Jump", "Walk", SubResource("AnimationNodeStateMachineTransition_ea5wf")]
 graph_offset = Vector2(44, 34)
 
 [node name="Player" type="CharacterBody3D"]
